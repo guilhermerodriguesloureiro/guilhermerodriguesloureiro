@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**guilhermerodriguesloureiro/guilhermerodriguesloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Rodrigues Loureiro
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
+-Estou me desenvolvendo na linguagem JavaScript
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+gui.rodrigue150307@gmail.com
+
+@guirloreiro
+
+![](![umm](https://github.com/guilhermerodriguesloureiro/guilhermerodriguesloureiro/assets/168834022/7298d765-59dc-4e06-a394-15b68abf0ba4)
